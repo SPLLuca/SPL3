@@ -19,7 +19,7 @@ public class Taschenrechenr {
 			} else {
 				System.out.println("Operator ungültig!");
 			}
-		}else if(args.length == 5) {
+		} else if(args.length == 5) {
 			
 			int zahl1 = Integer.parseInt(args[0]);
 			int zahl2 = Integer.parseInt(args[2]);
